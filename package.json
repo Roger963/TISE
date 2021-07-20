@@ -1,0 +1,20 @@
+{
+  "name": "TISE",
+  "version": "1.0.0",
+  "description": "Technology Intensive Service Ecuador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roger963/TISE.git"
+  },
+  "keywords": [],
+  "author": "Pineda roger, Falconí Kevin ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roger963/TISE/issues"
+  },
+  "homepage": "https://github.com/Roger963/TISE#readme"
+}
